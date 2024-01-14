@@ -3,5 +3,6 @@ age = int(input('How old are u? '))
 print('Hello, ',name)
 print('You mothes: ',age*12)
 print('You mothes: ',age*15)
+print('You mothes: ',age*18)
 
 
